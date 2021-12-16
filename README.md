@@ -14,9 +14,4 @@
             
 </div>
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=Programando-Juntos&theme=chartreuse-dark" alt="GomidesTiago stats"/>
-    <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Programando-Juntos&layout=compact&theme=chartreuse-dark" alt="GomidesTiago stats"/>
-</p>
